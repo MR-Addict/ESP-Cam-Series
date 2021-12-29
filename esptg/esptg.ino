@@ -4,7 +4,7 @@
 
 #define WIFI_SSID "HIPAA"
 #define WIFI_PASSWORD "123456789"
-#define BOT_TOKEN "5045007315:AAGusC_6QdXNPKai5cX93WWUNby9wpisaCc"
+#define BOTtoken "XXXXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOT_TOKEN, client);
