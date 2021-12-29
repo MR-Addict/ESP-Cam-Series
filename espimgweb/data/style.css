@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+img {
+  width: 70%;
+}
+button {
+  width: 4rem;
+  height: 4rem;
+  border: none;
+  background-color: green;
+  border-radius: 2rem;
+  color: white;
+}
+button:hover {
+  cursor: pointer;
+}
